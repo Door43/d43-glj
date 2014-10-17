@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[glj:home|Door43 (glj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-glj|d43-glj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-glj/archive/master.zip|d43-glj.zip]]
+
+**Recent Changes**
+{{changes>ns = glj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/glj|Ethnologue data]]
+
